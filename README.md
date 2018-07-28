@@ -8,4 +8,4 @@ Goal: Test CD Project.
     - Deploy: Terraform
     - Application: Tomcat/Java
 
-I love :coffee:
+I love :coffee: :pizza:
